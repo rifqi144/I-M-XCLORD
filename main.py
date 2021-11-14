@@ -2,12 +2,9 @@ import random
 import socket
 import threading
 
-print       (" - - > Lord Razzel Ni Dek!! < - - ")
-print       (" - - > Tolls By Lord!!!! < - - ")
-print       (" - - > Join XC TEAM <- - ")                                   
+print       (" - - > Lord Shawn Ni!! < - - ")
+print       (" - - > Tolls DDOS!!!! < - - ")                                   
 print       (" - - > Rename Pm Gw !! < - - ")
-print       (" - - > Xyber Comunity  < - - ")
-print       (" - - > Tuh link nya Join!! < - - ")
 print       (" - - >  How Are You Ready?  < - - ")
     
 ip = str(input("  Ip:"))
